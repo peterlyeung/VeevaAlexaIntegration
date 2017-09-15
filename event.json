@@ -1,0 +1,25 @@
+{
+  "session": {
+    "sessionId": "SessionId.ce39b363-ba34-431a-997e-678cf27b3ea8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.9cee7ac6-e050-44cd-81cf-0ff6365d4c03"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFSMXKLZC2FVMHX7AVMOCFARXAJM6A7IGOAMGV6VNB3R42IN6YTH4KM4SUQSLRUBWXATIKCVY3I72W45PLUBO43MI6AVKS7DN5GPSRRUUZHCGOA5AKV2FTCDRW4F2HFF7JLWXMCQ23HI7XUIEL6GL67IZJALSRSZPVN3KIMKS4XHKYD4XPO7YY32PTURLAVGZ6VZUOQ37Z24SFQ",
+      "accessToken": "00Df40000003jc1!ARAAQIZcGBm5bBok2sYnzC0X9xoM6YxNxiVBhLm9PLMKfCo0e9tVQ4ERFjZcP8cgKtuu2s5Pw5CIGppEROX2Mb5akmq4wmaQ"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.5b7ae1a9-faf3-496c-a3ae-0bedddcd999a",
+    "locale": "en-US",
+    "timestamp": "2017-07-12T04:18:14Z",
+    "intent": {
+      "name": "MyCalendarIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
